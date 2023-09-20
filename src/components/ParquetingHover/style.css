@@ -1,0 +1,33 @@
+.parqueting-hover {
+  align-items: center;
+  border-radius: 5px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 20px;
+  padding: 5px;
+  position: relative;
+}
+
+.parqueting-hover .home-default-6 {
+  left: unset !important;
+  top: unset !important;
+}
+
+.parqueting-hover .line-6 {
+  height: 1px;
+  left: -5px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 68px;
+}
+
+.parqueting-hover.property-1-4-default {
+  top: 20px;
+}
+
+.parqueting-hover.property-1-4-variant-2 {
+  top: 66px;
+}

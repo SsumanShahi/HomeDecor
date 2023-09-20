@@ -1,0 +1,143 @@
+.carasoul {
+  align-items: flex-end;
+  display: flex;
+  gap: 135px;
+  overflow: hidden;
+  position: relative;
+}
+
+.carasoul .chair-removebg {
+  object-fit: cover;
+  position: relative;
+}
+
+.carasoul .sofa-removebg {
+  object-fit: cover;
+  position: relative;
+}
+
+.carasoul .eee-removebg {
+  object-fit: cover;
+  position: relative;
+}
+
+.carasoul .couch {
+  object-fit: cover;
+  position: relative;
+}
+
+.carasoul.slider-component1 {
+  left: 20px;
+  top: 20px;
+  width: 495px;
+}
+
+.carasoul.slider-component4 {
+  left: 3338px;
+  top: 20px;
+  width: 954px;
+}
+
+.carasoul.slider-component3 {
+  left: 1603px;
+  top: 164px;
+  width: 878px;
+}
+
+.carasoul.slider-component2 {
+  left: 744px;
+  top: 20px;
+  width: 630px;
+}
+
+.carasoul.slider-component1 .chair-removebg {
+  height: 694px;
+  width: 495px;
+}
+
+.carasoul.slider-component4 .chair-removebg {
+  height: 631px;
+  width: 880px;
+}
+
+.carasoul.slider-component3 .chair-removebg {
+  height: 632px;
+  width: 878px;
+}
+
+.carasoul.slider-component2 .chair-removebg {
+  height: 584px;
+  width: 630px;
+}
+
+.carasoul.slider-component1 .sofa-removebg {
+  height: 584px;
+  margin-bottom: -5787px;
+  width: 674px;
+}
+
+.carasoul.slider-component4 .sofa-removebg {
+  height: 818px;
+  margin-bottom: -5787px;
+  width: 1310px;
+}
+
+.carasoul.slider-component3 .sofa-removebg {
+  height: 584px;
+  margin-bottom: -5643px;
+  width: 674px;
+}
+
+.carasoul.slider-component2 .sofa-removebg {
+  height: 694px;
+  margin-bottom: -5787px;
+  width: 495px;
+}
+
+.carasoul.slider-component1 .eee-removebg {
+  height: 818px;
+  margin-bottom: -5787px;
+  width: 1310px;
+}
+
+.carasoul.slider-component4 .eee-removebg {
+  height: 584px;
+  margin-bottom: -5787px;
+  width: 674px;
+}
+
+.carasoul.slider-component3 .eee-removebg {
+  height: 694px;
+  margin-bottom: -5643px;
+  width: 495px;
+}
+
+.carasoul.slider-component2 .eee-removebg {
+  height: 818px;
+  margin-bottom: -5787px;
+  width: 1310px;
+}
+
+.carasoul.slider-component1 .couch {
+  height: 631px;
+  margin-bottom: -5787px;
+  width: 880px;
+}
+
+.carasoul.slider-component4 .couch {
+  height: 694px;
+  margin-bottom: -5787px;
+  width: 495px;
+}
+
+.carasoul.slider-component3 .couch {
+  height: 631px;
+  margin-bottom: -5643px;
+  width: 880px;
+}
+
+.carasoul.slider-component2 .couch {
+  height: 631px;
+  margin-bottom: -5787px;
+  width: 880px;
+}

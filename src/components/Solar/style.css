@@ -1,0 +1,33 @@
+.solar {
+  align-items: center;
+  border-radius: 5px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 20px;
+  padding: 5px;
+  position: relative;
+}
+
+.solar .home-default-4 {
+  left: unset !important;
+  top: unset !important;
+}
+
+.solar .line-4 {
+  height: 1px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 35px;
+}
+
+.solar.property-1-2-default {
+  top: 20px;
+}
+
+.solar.property-1-2-variant-2 {
+  top: 66px;
+}

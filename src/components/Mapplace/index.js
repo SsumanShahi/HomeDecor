@@ -1,0 +1,1 @@
+export { Mapplace } from "./Mapplace";

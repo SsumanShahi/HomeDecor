@@ -1,0 +1,33 @@
+.furniture-hover {
+  align-items: center;
+  border-radius: 5px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 20px;
+  padding: 5px;
+  position: relative;
+}
+
+.furniture-hover .home-default-3 {
+  left: unset !important;
+  top: unset !important;
+}
+
+.furniture-hover .line-3 {
+  height: 1px;
+  left: -5px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 68px;
+}
+
+.furniture-hover.property-1-1-default {
+  top: 20px;
+}
+
+.furniture-hover.property-1-1-variant-2 {
+  top: 66px;
+}

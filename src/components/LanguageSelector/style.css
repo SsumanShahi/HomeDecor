@@ -1,0 +1,62 @@
+.language-selector {
+  height: 68px;
+  left: 20px;
+  position: relative;
+  width: 73px;
+}
+
+.language-selector .div {
+  align-items: center;
+  display: flex;
+  gap: 9px;
+  height: 34px;
+  position: relative;
+  width: 73px;
+}
+
+.language-selector .text-wrapper {
+  color: #fd041882;
+  font-family: "Jaldi", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.language-selector .vector {
+  height: 5.66px;
+  position: relative;
+  width: 8.49px;
+}
+
+.language-selector .frame-2 {
+  align-items: center;
+  display: flex;
+  gap: 9px;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.language-selector .frame-3 {
+  align-items: center;
+  display: flex;
+  gap: 9px;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 52px;
+}
+
+.language-selector.property-1-7-default {
+  top: 20px;
+}
+
+.language-selector.property-1-7-variant-2 {
+  top: 108px;
+}

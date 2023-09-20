@@ -1,0 +1,35 @@
+.decorative-items {
+  align-items: center;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 20px;
+  padding: 5px;
+  position: relative;
+  width: 132px;
+}
+
+.decorative-items .home-default-7 {
+  left: unset !important;
+  top: unset !important;
+}
+
+.decorative-items .line-7 {
+  height: 1px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 127px;
+}
+
+.decorative-items.property-1-5-default {
+  height: 26px;
+  top: 20px;
+}
+
+.decorative-items.property-1-5-variant-2 {
+  top: 66px;
+}

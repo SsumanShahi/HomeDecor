@@ -1,0 +1,72 @@
+.search {
+  height: 68px;
+  position: relative;
+  width: 105px;
+}
+
+.search .group-2 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 24px;
+}
+
+.search .frame-4 {
+  align-items: center;
+  background-color: #ffffff1a;
+  border-radius: 5px;
+  display: flex;
+  gap: 10px;
+  left: -164px;
+  position: absolute;
+  top: 6px;
+  width: 225px;
+}
+
+.search .mdi-search {
+  height: 24px;
+  position: relative;
+  width: 23.89px;
+}
+
+.search .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.search .group-3 {
+  height: 20px;
+  left: 205px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.search .class {
+  left: 68px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.search .class-2 {
+  left: 32px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.search.property-1-8-default {
+  left: 273px;
+  top: 20px;
+}
+
+.search.property-1-8-variant-2 {
+  left: 176px;
+  top: 108px;
+}

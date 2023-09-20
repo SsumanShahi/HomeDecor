@@ -1,0 +1,33 @@
+.aboutus-hover {
+  align-items: center;
+  border-radius: 5px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 20px;
+  padding: 5px;
+  position: relative;
+}
+
+.aboutus-hover .instance-node {
+  left: unset !important;
+  top: unset !important;
+}
+
+.aboutus-hover .img {
+  height: 1px;
+  left: -5px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 68px;
+}
+
+.aboutus-hover.property-1-default {
+  top: 20px;
+}
+
+.aboutus-hover.property-1-variant-2 {
+  top: 66px;
+}

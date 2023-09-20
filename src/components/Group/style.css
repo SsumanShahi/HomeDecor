@@ -1,0 +1,117 @@
+.group {
+  height: 480px;
+  left: 20px;
+  position: relative;
+  width: 323px;
+}
+
+.group .NRP {
+  color: #e40f0f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 390px;
+  width: 118px;
+}
+
+.group .epson-XGA {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 321px;
+  width: 292px;
+}
+
+.group .product {
+  height: 207px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.group .overlap-group {
+  height: 480px;
+  left: -4px;
+  position: relative;
+  width: 327px;
+}
+
+.group .NRP-2 {
+  color: #e40f0f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 104px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 390px;
+  width: 118px;
+}
+
+.group .rectangle {
+  height: 361px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 310px;
+}
+
+.group .epson-e-e-XGA {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 321px;
+  width: 292px;
+}
+
+.group .product-2 {
+  height: 207px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.group .group-wrapper {
+  background-color: #d01737;
+  border-radius: 28px;
+  height: 56px;
+  left: 125px;
+  position: absolute;
+  top: 424px;
+  width: 56px;
+}
+
+.group .img-2 {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 24px;
+}
+
+.group.property-1-9-default {
+  top: 20px;
+}
+
+.group.property-1-9-cardviewbox {
+  top: 520px;
+}

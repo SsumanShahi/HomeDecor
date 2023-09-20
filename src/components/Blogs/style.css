@@ -1,0 +1,33 @@
+.blogs {
+  align-items: center;
+  border-radius: 5px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 20px;
+  padding: 5px;
+  position: relative;
+}
+
+.blogs .home-default-8 {
+  left: unset !important;
+  top: unset !important;
+}
+
+.blogs .line-8 {
+  height: 1px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 36px;
+}
+
+.blogs.property-1-6-default {
+  top: 20px;
+}
+
+.blogs.property-1-6-variant-2 {
+  top: 66px;
+}

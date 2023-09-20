@@ -1,0 +1,1 @@
+export { DecorativeItems } from "./DecorativeItems";

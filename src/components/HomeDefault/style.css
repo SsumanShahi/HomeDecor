@@ -1,0 +1,31 @@
+.home-default {
+  height: 16px;
+  left: 906px;
+  position: relative;
+  top: 219px;
+  width: 49px;
+}
+
+.home-default .frame {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 8px;
+  justify-content: center;
+  padding: 1px;
+  position: relative;
+  width: 49px;
+}
+
+.home-default .home {
+  color: #fd041882;
+  font-family: "Jaldi", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -13.16px;
+  margin-top: -15.16px;
+  position: relative;
+  width: fit-content;
+}

@@ -1,0 +1,32 @@
+:root {
+  --about-us-font-font-family: "Jaldi-Regular", Helvetica;
+  --about-us-font-font-size: 24px;
+  --about-us-font-font-style: normal;
+  --about-us-font-font-weight: 400;
+  --about-us-font-letter-spacing: 0px;
+  --about-us-font-line-height: normal;
+  --annotations: rgba(246, 190, 44, 1);
+  --headercolorchoice: rgba(41, 34, 34, 1);
+  --nav-text-h1-font-family: "Jaldi-Bold", Helvetica;
+  --nav-text-h1-font-size: 20px;
+  --nav-text-h1-font-style: normal;
+  --nav-text-h1-font-weight: 700;
+  --nav-text-h1-letter-spacing: 0px;
+  --nav-text-h1-line-height: normal;
+  --primary: rgba(84, 95, 113, 1);
+  --tagfont-font-family: "Montserrat-SemiBold", Helvetica;
+  --tagfont-font-size: 20px;
+  --tagfont-font-style: normal;
+  --tagfont-font-weight: 600;
+  --tagfont-letter-spacing: 0px;
+  --tagfont-line-height: normal;
+  --variable-collection-colors-font: rgba(253, 4, 24, 0.51);
+  --variable-collection-colors-hover: rgba(188, 185, 185, 1);
+  --variable-collection-colors-primary: rgba(255, 255, 255, 1);
+  --variable-collection-followusicon: rgba(139, 123, 123, 1);
+  --variable-collection-logo-blue-color: rgba(26, 141, 198, 1);
+  --variable-collection-logo-color: rgba(253, 4, 24, 1);
+  --variable-collection-nav-color: rgba(114, 11, 11, 1);
+  --variable-collection-testimonial-color: rgba(102, 102, 102, 1);
+  --variable-collection-wall-color: rgba(0, 136, 112, 1);
+}

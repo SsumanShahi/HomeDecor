@@ -1,0 +1,33 @@
+.homehover {
+  align-items: center;
+  border-radius: 5px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 20px;
+  padding: 5px;
+  position: relative;
+}
+
+.homehover .home-default-instance {
+  left: unset !important;
+  top: unset !important;
+}
+
+.homehover .line {
+  height: 1px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 35px;
+}
+
+.homehover.default {
+  top: 20px;
+}
+
+.homehover.variant-2 {
+  top: 66px;
+}
